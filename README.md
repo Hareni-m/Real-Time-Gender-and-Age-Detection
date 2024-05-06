@@ -8,9 +8,10 @@ In this project I showed that by learning representations through the use of dee
 -Utilize the UTKFace dataset, which contains a large number of facial images annotated with age, gender, and ethnicity information.
 -Preprocess the images to ensure uniformity in size, lighting conditions, and facial orientation.
 # Model Architecture:
-Design a simple yet effective convolutional neural network architecture tailored for age and gender detection tasks.
+-Design a simple yet effective convolutional neural network architecture tailored for age and gender detection tasks.
 -Train the model using the collected dataset, employing techniques such as data augmentation to enhance generalization.
-# Model Evaluation:Evaluate the trained model on a separate test set from the UTKFace dataset.
+# Model Evaluation:
+-Evaluate the trained model on a separate test set from the UTKFace dataset.
 -Measure performance metrics such as accuracy, precision, recall, and F1-score for both age and gender predictions.
 # Comparison with Existing Methods:
 Compare the performance of the proposed model with state-of-the-art methods for age and gender detection.
